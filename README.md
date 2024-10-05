@@ -1,0 +1,1 @@
+Este código fue creado con el fin de manejar las finanzas de una empresa, en donde usando una conexion con una base de datos sql se puede consultar, editar y añadir nueva informacion para la gestion de la empresa
